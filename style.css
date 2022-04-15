@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#center_big {
+	width: 1024px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	background-color: #99cc66;
+}
+
+#center_small {
+	width: 976px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	background-color: #FFF;
+	border-top-width: 5pt;
+	border-right-width: 5pt;
+	border-bottom-width: 5pt;
+	border-left-width: 5pt;
+	border-top-style: none;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #336699;
+	border-right-color: #336699;
+	border-bottom-color: #336699;
+	border-left-color: #336699;
+	background-image: url(main_art/line_tile.png);
+	background-repeat: repeat-x;
+	height: 100%;
+}
+.header {
+	background-image: url(main_art/dark_grey_tile.png);
+	width: 1024px;
+	margin: 0px;
+	padding: 0px;
+	height: 182px;
+}
+.body_copy {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 18pt;
+	font-style: normal;
+}
+.HEADER {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: lighter;
+	color: #4f60a2;
+}
